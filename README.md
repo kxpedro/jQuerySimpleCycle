@@ -1,2 +1,2 @@
 # jQuery Simple Cycle
-Just an simple test with Cycle plugin for jQuery  
+Just an simple page with jQuery Cycle using Fade function  
